@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,cuisine,restaurant_category,restaurant_rating,average_price
+REST_0001,"Choudhury, Bakshi and Maharaj Kitchen",Delhi,Cafe,Budget,3.5,178.15
+REST_0002,Kapoor and Sons Kitchen,Jaipur,Bakery,Premium,4.2,1438.97
+REST_0003,"Chaudry, Chahal and Sami Kitchen",Bengaluru,North Indian,Mid-range,3.5,390.14
+REST_0004,Balan Inc Kitchen,Chennai,South Indian,Mid-range,3.6,524.11
+REST_0005,Kaul PLC Kitchen,Delhi,Fast Food,Budget,3.8,144.66
+REST_0006,"Bala, Issac and Saini Kitchen",Kochi,North Indian,Budget,4.3,243.64
+REST_0007,Sen PLC Kitchen,Bengaluru,North Indian,Premium,3.8,1513.3
+REST_0008,Ahuja-Dutta Kitchen,Bengaluru,South Indian,Mid-range,3.6,505.18
+REST_0009,"Sami, Oak and Mall Kitchen",Bengaluru,Italian,Premium,4.3,1159.86
+REST_0010,Kale LLC Kitchen,Bengaluru,Mexican,Budget,4.8,293.0
+REST_0011,Chanda Group Kitchen,Ahmedabad,North Indian,Budget,4.4,232.93
+REST_0012,Parmer LLC Kitchen,Pune,South Indian,Premium,4.9,859.55
+REST_0013,"Lalla, Bassi and Sharaf Kitchen",Delhi,Italian,Mid-range,4.7,388.18
+REST_0014,"Dash, Radhakrishnan and Brar Kitchen",Mumbai,Fast Food,Budget,3.9,246.96
+REST_0015,"Memon, Pathak and Handa Kitchen",Pune,North Indian,Budget,4.4,252.38
+REST_0016,"Boase, Bath and Kari Kitchen",Bengaluru,Chinese,Mid-range,4.1,392.29
+REST_0017,Buch-Kaul Kitchen,Hyderabad,Cafe,Mid-range,4.6,407.78
+REST_0018,Rai LLC Kitchen,Mumbai,Bakery,Mid-range,4.1,646.69
+REST_0019,Patla-Gaba Kitchen,Bengaluru,Bakery,Budget,3.7,138.35
+REST_0020,Pant-Kadakia Kitchen,Hyderabad,Cafe,Budget,4.7,192.84
+REST_0021,"Loke, Bora and Garg Kitchen",Hyderabad,Chinese,Premium,4.2,662.45
+REST_0022,"Konda, Gade and Shere Kitchen",Bengaluru,Fast Food,Budget,3.8,267.79
+REST_0023,Madan-Kanda Kitchen,Bengaluru,Chinese,Mid-range,3.9,314.17
+REST_0024,"Nair, Bhalla and Karnik Kitchen",Pune,Fast Food,Mid-range,3.8,529.38
+REST_0025,Mutti Group Kitchen,Bengaluru,South Indian,Budget,3.6,130.17
+REST_0026,Bhatti-Kakar Kitchen,Jaipur,Fast Food,Mid-range,3.9,528.96
+REST_0027,"Murty, Kala and Tata Kitchen",Bengaluru,Italian,Mid-range,4.3,591.92
+REST_0028,Shanker-Dhar Kitchen,Kolkata,North Indian,Mid-range,4.1,427.56
+REST_0029,Dewan-Koshy Kitchen,Ahmedabad,Biryani,Mid-range,3.9,473.19
+REST_0030,"Yohannan, Lall and Sangha Kitchen",Jaipur,North Indian,Budget,4.8,192.28
+REST_0031,"Rastogi, Pathak and Kanda Kitchen",Ahmedabad,South Indian,Mid-range,3.2,391.18
+REST_0032,Upadhyay Group Kitchen,Chennai,North Indian,Mid-range,4.2,577.21
+REST_0033,Batta Inc Kitchen,Hyderabad,Chinese,Mid-range,4.0,380.64
+REST_0034,Dutta Ltd Kitchen,Hyderabad,North Indian,Budget,3.7,250.13
+REST_0035,Bhatt-Rajan Kitchen,Bengaluru,Cafe,Mid-range,4.3,356.29
+REST_0036,Sidhu-Wadhwa Kitchen,Bengaluru,Chinese,Premium,4.0,849.85
+REST_0037,Apte-Contractor Kitchen,Ahmedabad,Italian,Mid-range,4.7,404.49
+REST_0038,"Yadav, Loke and Oak Kitchen",Mumbai,Chinese,Mid-range,4.5,497.99
+REST_0039,Memon Group Kitchen,Delhi,Fast Food,Mid-range,5.0,448.14
+REST_0040,Setty Inc Kitchen,Jaipur,Biryani,Premium,3.9,1345.14
+REST_0041,"Lall, Tella and Gokhale Kitchen",Delhi,Fast Food,Premium,4.7,813.57
+REST_0042,"Cherian, Misra and Tripathi Kitchen",Pune,Biryani,Budget,3.6,121.92
+REST_0043,"Issac, Dua and Prakash Kitchen",Pune,Cafe,Mid-range,4.1,567.33
+REST_0044,Zacharia PLC Kitchen,Bengaluru,Desserts,Budget,3.9,267.9
+REST_0045,Naik Group Kitchen,Hyderabad,Fast Food,Mid-range,4.4,302.01
+REST_0046,Choudhury LLC Kitchen,Kochi,South Indian,Budget,4.4,229.96
+REST_0047,Khatri-Bhardwaj Kitchen,Jaipur,Fast Food,Mid-range,3.7,419.94
+REST_0048,Brar Inc Kitchen,Ahmedabad,Italian,Budget,4.4,262.9
+REST_0049,"Sunder, Biswas and Walia Kitchen",Mumbai,Fast Food,Mid-range,3.9,603.53
+REST_0050,Dave Ltd Kitchen,Kolkata,Desserts,Mid-range,3.7,594.87
+REST_0051,Gandhi-Lanka Kitchen,Bengaluru,Biryani,Budget,4.1,259.9
+REST_0052,"Sampath, Kakar and Zacharia Kitchen",Bengaluru,Desserts,Premium,3.4,869.05
+REST_0053,"Iyer, Muni and Rastogi Kitchen",Hyderabad,North Indian,Mid-range,4.5,580.4
+REST_0054,"Prakash, Sarma and Varughese Kitchen",Mumbai,North Indian,Mid-range,4.1,477.39
+REST_0055,Dara-Kota Kitchen,Chennai,South Indian,Mid-range,4.1,299.52
+REST_0056,Bhatt LLC Kitchen,Hyderabad,Cafe,Budget,4.1,202.25
+REST_0057,Karpe PLC Kitchen,Bengaluru,Desserts,Mid-range,4.8,628.6
+REST_0058,Amble Inc Kitchen,Mumbai,Fast Food,Budget,4.8,279.81
+REST_0059,"Bhargava, Karnik and Bir Kitchen",Kolkata,Fast Food,Mid-range,4.7,317.84
+REST_0060,Narayanan Inc Kitchen,Delhi,Biryani,Mid-range,4.1,555.33
+REST_0061,"Khanna, Mallick and Sunder Kitchen",Bengaluru,Cafe,Budget,3.6,265.04
+REST_0062,Zacharia and Sons Kitchen,Mumbai,Desserts,Premium,4.1,871.39
+REST_0063,"Solanki, Kibe and Solanki Kitchen",Pune,Fast Food,Budget,4.2,204.89
+REST_0064,Gupta-Chandra Kitchen,Mumbai,Fast Food,Premium,4.5,1310.99
+REST_0065,Sankar LLC Kitchen,Hyderabad,South Indian,Budget,4.2,199.03
+REST_0066,Roy-Sibal Kitchen,Delhi,Fast Food,Mid-range,3.6,321.73
+REST_0067,"Bhagat, Chaudhari and Bhat Kitchen",Kochi,Chinese,Budget,3.9,247.06
+REST_0068,Nori-Chopra Kitchen,Bengaluru,North Indian,Mid-range,3.8,617.31
+REST_0069,Handa and Sons Kitchen,Hyderabad,Biryani,Mid-range,4.3,521.42
+REST_0070,"Sen, Dey and Sami Kitchen",Hyderabad,Italian,Budget,4.4,259.28
+REST_0071,Mallick Group Kitchen,Delhi,Bakery,Mid-range,4.4,412.59
+REST_0072,Borra Group Kitchen,Bengaluru,South Indian,Mid-range,4.2,347.78
+REST_0073,"Chaudhari, Bedi and Zachariah Kitchen",Chennai,Italian,Mid-range,3.2,517.83
+REST_0074,Chander and Sons Kitchen,Chennai,Chinese,Premium,3.3,927.77
+REST_0075,Ray Group Kitchen,Jaipur,North Indian,Mid-range,4.0,598.23
+REST_0076,Kala-Rattan Kitchen,Pune,Chinese,Budget,4.1,142.07
+REST_0077,Gala Group Kitchen,Delhi,South Indian,Budget,4.7,198.02
+REST_0078,Ramakrishnan LLC Kitchen,Kolkata,North Indian,Mid-range,4.1,426.79
+REST_0079,Mangal-Sampath Kitchen,Bengaluru,South Indian,Mid-range,3.7,627.08
+REST_0080,"Sur, Dubey and Gupta Kitchen",Kolkata,South Indian,Budget,4.4,147.56
+REST_0081,Kalla-Bhardwaj Kitchen,Delhi,Biryani,Budget,4.1,121.77
+REST_0082,"Bhat, Murthy and Bhandari Kitchen",Hyderabad,North Indian,Mid-range,3.9,368.09
+REST_0083,Sood PLC Kitchen,Kolkata,Fast Food,Premium,3.4,1420.28
+REST_0084,"Dugar, Bhandari and Trivedi Kitchen",Kolkata,Biryani,Budget,4.1,157.68
+REST_0085,Grewal Inc Kitchen,Kolkata,Italian,Mid-range,4.2,369.12
+REST_0086,"Bir, Keer and Raval Kitchen",Bengaluru,Cafe,Mid-range,3.7,328.06
+REST_0087,Koshy PLC Kitchen,Kochi,Fast Food,Mid-range,4.4,544.71
+REST_0088,"Baral, Bumb and Saini Kitchen",Jaipur,Biryani,Budget,4.4,132.45
+REST_0089,"Virk, Mutti and Lal Kitchen",Hyderabad,South Indian,Mid-range,4.1,402.55
+REST_0090,Murthy and Sons Kitchen,Bengaluru,Biryani,Premium,4.1,882.5
+REST_0091,Randhawa-Deep Kitchen,Bengaluru,Desserts,Budget,4.5,219.93
+REST_0092,"Mital, Shankar and Mutti Kitchen",Kochi,Chinese,Mid-range,4.3,550.25
+REST_0093,Andra Group Kitchen,Mumbai,South Indian,Budget,3.8,215.92
+REST_0094,"Chaudhry, Borah and Yogi Kitchen",Hyderabad,Chinese,Budget,4.0,287.58
+REST_0095,Toor LLC Kitchen,Chennai,Biryani,Mid-range,4.4,632.03
+REST_0096,Palla Inc Kitchen,Chennai,Chinese,Mid-range,3.2,413.74
+REST_0097,Pingle LLC Kitchen,Delhi,Biryani,Budget,3.7,259.98
+REST_0098,Sarma PLC Kitchen,Hyderabad,North Indian,Mid-range,4.4,553.36
+REST_0099,"Mittal, Wadhwa and Anand Kitchen",Kochi,Biryani,Mid-range,4.6,610.4
+REST_0100,"Mistry, Chawla and Desai Kitchen",Delhi,South Indian,Mid-range,4.6,445.74
+REST_0101,D’Alia-Chhabra Kitchen,Kolkata,South Indian,Mid-range,4.5,476.28
+REST_0102,"Dugal, Magar and Manda Kitchen",Chennai,Fast Food,Budget,4.2,194.84
+REST_0103,"Kade, Oza and Jani Kitchen",Bengaluru,North Indian,Premium,3.6,1450.38
+REST_0104,"Lalla, Tiwari and Suresh Kitchen",Mumbai,North Indian,Mid-range,4.0,364.99
+REST_0105,Behl-Chanda Kitchen,Hyderabad,South Indian,Mid-range,3.2,368.69
+REST_0106,"Sampath, Malhotra and Basu Kitchen",Chennai,Mexican,Mid-range,4.7,417.86
+REST_0107,Nath and Sons Kitchen,Jaipur,Cafe,Budget,3.7,161.46
+REST_0108,"Lala, Edwin and Sathe Kitchen",Mumbai,Desserts,Budget,3.9,220.98
+REST_0109,"Sane, Andra and Choudhury Kitchen",Chennai,Italian,Mid-range,4.6,329.76
+REST_0110,Dixit PLC Kitchen,Chennai,North Indian,Mid-range,3.4,398.47
+REST_0111,Pingle PLC Kitchen,Chennai,Mexican,Premium,3.6,1513.44
+REST_0112,"Divan, Sani and Datta Kitchen",Kochi,Fast Food,Premium,4.2,1009.23
+REST_0113,Morar LLC Kitchen,Chennai,Chinese,Budget,4.3,254.68
+REST_0114,Parmar and Sons Kitchen,Hyderabad,North Indian,Mid-range,4.1,321.98
+REST_0115,"Krish, Chauhan and Pandya Kitchen",Delhi,South Indian,Mid-range,4.1,371.6
+REST_0116,"Ray, Dubey and Khalsa Kitchen",Chennai,Biryani,Budget,4.7,265.32
+REST_0117,Goel Group Kitchen,Chennai,Chinese,Mid-range,4.4,562.31
+REST_0118,Gola Ltd Kitchen,Bengaluru,Biryani,Mid-range,4.3,422.88
+REST_0119,Sabharwal-Kothari Kitchen,Hyderabad,South Indian,Mid-range,4.4,633.13
+REST_0120,Dutta-Chokshi Kitchen,Bengaluru,North Indian,Budget,4.0,283.92
+REST_0121,Barad-Singhal Kitchen,Bengaluru,Chinese,Budget,5.0,293.21
+REST_0122,Iyengar Group Kitchen,Kolkata,Italian,Budget,3.1,197.02
+REST_0123,Mody-Kari Kitchen,Bengaluru,North Indian,Mid-range,4.8,353.07
+REST_0124,Bajwa Ltd Kitchen,Pune,North Indian,Budget,4.5,232.8
+REST_0125,Rastogi LLC Kitchen,Kolkata,South Indian,Mid-range,4.2,533.37
+REST_0126,Boase-Mallick Kitchen,Mumbai,North Indian,Mid-range,4.1,326.41
+REST_0127,Upadhyay-Ratta Kitchen,Chennai,Chinese,Mid-range,4.0,571.0
+REST_0128,"Yadav, Narula and Bala Kitchen",Bengaluru,Bakery,Mid-range,4.6,286.68
+REST_0129,Lal and Sons Kitchen,Pune,Italian,Mid-range,4.1,458.61
+REST_0130,"Lanka, Barad and Chopra Kitchen",Delhi,Fast Food,Mid-range,3.8,402.48
+REST_0131,"Saraf, Pai and Murthy Kitchen",Delhi,Chinese,Mid-range,4.5,553.91
+REST_0132,Vaidya-D’Alia Kitchen,Bengaluru,Chinese,Mid-range,4.8,395.72
+REST_0133,Gupta-Kumar Kitchen,Jaipur,North Indian,Mid-range,3.2,585.92
+REST_0134,Sarin Inc Kitchen,Bengaluru,Italian,Mid-range,5.0,500.13
+REST_0135,"Yohannan, Hegde and Patla Kitchen",Hyderabad,Italian,Budget,3.6,262.9
+REST_0136,Boase-Narayanan Kitchen,Hyderabad,North Indian,Mid-range,3.7,646.06
+REST_0137,"Murthy, Dash and Mital Kitchen",Bengaluru,Biryani,Premium,3.5,1279.16
+REST_0138,"More, Rege and Narain Kitchen",Mumbai,Italian,Budget,4.1,297.29
+REST_0139,Merchant-Datta Kitchen,Pune,Chinese,Budget,3.5,125.19
+REST_0140,Salvi Ltd Kitchen,Kolkata,North Indian,Budget,3.6,180.87
+REST_0141,Ghosh-Mitra Kitchen,Ahmedabad,Mexican,Mid-range,3.8,319.91
+REST_0142,Acharya-Modi Kitchen,Mumbai,Biryani,Budget,4.2,167.21
+REST_0143,Kade-Sani Kitchen,Delhi,South Indian,Mid-range,4.2,590.39
+REST_0144,"Nagy, Shroff and Sathe Kitchen",Bengaluru,South Indian,Budget,4.7,125.82
+REST_0145,Kala-Vaidya Kitchen,Mumbai,Italian,Budget,4.6,213.63
+REST_0146,Gara-Chad Kitchen,Bengaluru,North Indian,Mid-range,4.6,489.84
+REST_0147,Varma-Nayak Kitchen,Hyderabad,Fast Food,Budget,4.0,221.01
+REST_0148,Keer Ltd Kitchen,Hyderabad,Fast Food,Premium,3.3,1075.3
+REST_0149,Kar-Issac Kitchen,Hyderabad,North Indian,Budget,3.3,262.31
+REST_0150,Bakshi Inc Kitchen,Delhi,North Indian,Mid-range,4.6,329.41
+REST_0151,Soman PLC Kitchen,Ahmedabad,Fast Food,Budget,4.5,175.9
+REST_0152,Shah Group Kitchen,Hyderabad,South Indian,Budget,3.8,230.83
+REST_0153,"Hayer, Rajagopalan and Talwar Kitchen",Kochi,North Indian,Premium,3.5,1290.95
+REST_0154,Kohli-Divan Kitchen,Pune,Biryani,Premium,3.6,1004.15
+REST_0155,"Ahluwalia, Chhabra and Sandal Kitchen",Mumbai,South Indian,Budget,4.2,277.57
+REST_0156,Goda Ltd Kitchen,Delhi,Italian,Mid-range,4.2,433.73
+REST_0157,"Shetty, Bedi and Krish Kitchen",Bengaluru,South Indian,Mid-range,4.6,429.03
+REST_0158,Shan and Sons Kitchen,Kolkata,Fast Food,Budget,3.9,126.52
+REST_0159,Wali-Nadig Kitchen,Delhi,South Indian,Budget,4.0,219.21
+REST_0160,Thaman-Sandhu Kitchen,Kochi,Bakery,Premium,4.6,1308.68
+REST_0161,"Sehgal, Dutt and Soman Kitchen",Delhi,Fast Food,Premium,3.1,714.44
+REST_0162,Lad-Kota Kitchen,Kolkata,North Indian,Premium,4.2,905.43
+REST_0163,"Malhotra, Verma and Sundaram Kitchen",Kolkata,Chinese,Mid-range,3.9,569.07
+REST_0164,"Khare, Maharaj and Sarraf Kitchen",Hyderabad,Chinese,Mid-range,4.4,415.39
+REST_0165,Mangal and Sons Kitchen,Chennai,Mexican,Budget,4.3,163.49
+REST_0166,Nayak-Nagarajan Kitchen,Hyderabad,Desserts,Budget,3.8,241.0
+REST_0167,"Buch, Devi and Dora Kitchen",Mumbai,Fast Food,Budget,3.9,155.42
+REST_0168,Rajagopal Ltd Kitchen,Chennai,North Indian,Mid-range,3.1,611.39
+REST_0169,Kala Inc Kitchen,Ahmedabad,Fast Food,Mid-range,4.4,319.07
+REST_0170,Reddy-Narayanan Kitchen,Mumbai,North Indian,Mid-range,4.2,541.42
+REST_0171,"Shukla, Sagar and Bhatia Kitchen",Kochi,Biryani,Premium,4.7,1099.55
+REST_0172,Salvi Group Kitchen,Kolkata,Fast Food,Premium,3.9,1469.93
+REST_0173,"Bahri, Rai and Sood Kitchen",Mumbai,South Indian,Premium,4.5,726.2
+REST_0174,Pandey LLC Kitchen,Jaipur,South Indian,Budget,3.6,242.02
+REST_0175,Saini-Yohannan Kitchen,Mumbai,Biryani,Mid-range,2.9,491.66
+REST_0176,"Kannan, Sura and Kanda Kitchen",Ahmedabad,Biryani,Mid-range,4.1,457.63
+REST_0177,Sarin-Sunder Kitchen,Hyderabad,Chinese,Budget,3.8,208.45
+REST_0178,Ramachandran LLC Kitchen,Hyderabad,South Indian,Premium,3.6,1321.98
+REST_0179,"Ravel, Gandhi and Sibal Kitchen",Hyderabad,Mexican,Premium,4.5,1537.74
+REST_0180,Walla Inc Kitchen,Mumbai,North Indian,Budget,4.6,136.43
+REST_0181,Bala-Chacko Kitchen,Mumbai,North Indian,Budget,4.1,123.51
+REST_0182,"Sangha, Deshmukh and Shenoy Kitchen",Mumbai,North Indian,Mid-range,4.0,578.11
+REST_0183,Bedi LLC Kitchen,Chennai,South Indian,Mid-range,4.1,320.02
+REST_0184,Narang-Kakar Kitchen,Jaipur,Italian,Premium,3.8,1586.7
+REST_0185,Narain-Nazareth Kitchen,Delhi,Bakery,Budget,4.4,231.48
+REST_0186,Mall-Sama Kitchen,Hyderabad,Fast Food,Budget,3.4,237.16
+REST_0187,Bumb-Singhal Kitchen,Delhi,North Indian,Budget,3.6,155.8
+REST_0188,Zacharia Inc Kitchen,Pune,Italian,Budget,3.7,163.26
+REST_0189,Kapur-Biswas Kitchen,Kochi,Italian,Budget,4.3,238.68
+REST_0190,"Baria, Balasubramanian and Kota Kitchen",Mumbai,North Indian,Premium,4.0,1509.73
+REST_0191,Bahri PLC Kitchen,Bengaluru,Cafe,Budget,4.7,296.83
+REST_0192,Khare and Sons Kitchen,Mumbai,Chinese,Mid-range,4.5,353.27
+REST_0193,Contractor-Kamdar Kitchen,Mumbai,Bakery,Budget,3.7,144.14
+REST_0194,Kunda-Pillay Kitchen,Ahmedabad,Chinese,Budget,4.4,130.15
+REST_0195,Contractor and Sons Kitchen,Hyderabad,Fast Food,Mid-range,3.9,601.27
+REST_0196,Chokshi-Bal Kitchen,Jaipur,North Indian,Mid-range,4.3,389.04
+REST_0197,Prashad-Ranganathan Kitchen,Mumbai,Italian,Mid-range,4.5,280.67
+REST_0198,"Issac, Borra and Kibe Kitchen",Kochi,South Indian,Mid-range,4.6,362.81
+REST_0199,Mitra Ltd Kitchen,Bengaluru,Desserts,Budget,4.2,181.28
+REST_0200,"Dara, Barman and Palan Kitchen",Ahmedabad,Biryani,Mid-range,4.8,646.66
